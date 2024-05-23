@@ -5,7 +5,7 @@
 - <b>[Active Diectory Lab] (https://grithub.com)</b>
   -  
 - <b>Certifications</b> 
-  - [Google IT Support Professional]
+  - [Google IT Support Professional] 
     
 <h2> 🤳 Connect with me:</h2>
 
