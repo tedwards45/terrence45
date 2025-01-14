@@ -1,11 +1,8 @@
-<h1>Hi, I'm Terrence! <br/>Cybersecurity Professional <a href="https://www.linkedin.com/in/joshmadakor/"><a href="https://www.youtube.com/c/joshmadakor"></h1>
-
+<h1>Hi, I'm Terrence! <br/>Cybersecurity Professional <a href="https://www.linkedin.com/in/terrence-edwards21"><a href></h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Active Diectory Lab] (https://grithub.com)</b>
-  -  
-- <b>Certifications</b> 
-  - [Google IT Support Professional] 
+ 
+  
     
 <h2> 🤳 Connect with me:</h2>
 
@@ -13,7 +10,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/terrence-edwards21
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
